@@ -77,4 +77,21 @@
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/><br>Git
 </td>
 </tr>
+
+<!-- Nouvelle ligne ajoutée -->
+<tr>
+<td align="center">
+<img src="https://cdn.worldvectorlogo.com/logos/apache-airflow-1.svg" width="40"/><br>Airflow
+</td>
+<td align="center">
+<img src="https://www.vectorlogo.zone/logos/metabase/metabase-icon.svg" width="40"/><br>Metabase
+</td>
+<td align="center">
+<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40"/><br>Hugging Face
+</td>
+<td align="center">
+<img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg" width="40"/><br>Streamlit
+</td>
+</tr>
+
 </table>
