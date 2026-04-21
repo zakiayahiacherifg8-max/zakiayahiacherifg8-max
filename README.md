@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Zakia YAHIA CHERIF</h1>
-<h3 align="center">DATA ANALYST JUNIOR</h3>
+<h3 align="center">DATA ANALYST </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zakiayahiacherifg8-max&label=Profile%20views&color=0e75b6&style=flat" alt="zakiayahiacherifg8-max" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/zakiayahiacherifg8-max](https://github.com/zakiayahiacherifg8-max)
 
-- 📫 How to reach me **zakou-06@hotmail.fr**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
